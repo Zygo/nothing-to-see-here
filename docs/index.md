@@ -38,23 +38,23 @@ Weaknesses
 Installation and Usage
 ----------------------
 
- * [Installation](docs/install.md)
- * [Configuration](docs/config.md)
- * [Running](docs/running.md)
- * [Command Line Options](docs/options.md)
+ * [Installation](install.md)
+ * [Configuration](config.md)
+ * [Running](running.md)
+ * [Command Line Options](options.md)
 
 Recommended Reading
 -------------------
 
- * [bees Gotchas](docs/gotchas.md)
- * [btrfs kernel bugs](docs/btrfs-kernel.md)
- * [bees vs. other btrfs features](docs/btrfs-other.md)
+ * [bees Gotchas](gotchas.md)
+ * [btrfs kernel bugs](btrfs-kernel.md)
+ * [bees vs. other btrfs features](btrfs-other.md)
 
 More Information
 ----------------
 
- * [How bees works](docs/how-it-works.md)
- * [Missing bees features](docs/missing.md)
+ * [How bees works](how-it-works.md)
+ * [Missing bees features](missing.md)
 
 Bug Reports and Contributions
 -----------------------------
